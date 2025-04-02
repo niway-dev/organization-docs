@@ -1,5 +1,5 @@
 
-## Project Structure: Web applications
+# Project Structure: Web applications
 
 Let's say we have a project called `applicationA-web` and we want to have a structure that is easy to understand and maintain. Also, some common practices that we want to follow are:
 
@@ -29,7 +29,7 @@ applicationA-web/
 |
 ```
 
-### Detailed Explanation
+## Detailed Explanation
 
 - `src/`: The source code of the application
     - `pages/`: The pages of the application, like the home page or the about page.
